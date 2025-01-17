@@ -22,3 +22,28 @@ Data cleaning, preprocessing, and integration for complex datasets
 ## Impact:
 The project delivers actionable insights for addressing wage gaps, improving regional economic equity, and optimizing labour market strategies in Canada.
 
+
+## Dataset:
+
+Reference Links for the datasets:
+
+Labour force characteristics: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028703
+
+Canadian tax filers: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110004701
+
+Wages, salaries and commissions of tax filers:
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110007201
+
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310030101
+
+skill shortages: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3310030101
+
+## Group member:
+
+Group Members:
+
+Dhruv Rameshbhai Patel
+Utsav Bharatbhai Goti
+Vineetkumar Vijaybhai Patel
+Dhruv Rajeshkumar Patel
